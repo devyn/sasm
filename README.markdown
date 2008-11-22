@@ -33,6 +33,6 @@ Well, then three things to remember:
 * The 'immediate' is the term used to describe an object passed along a chain of verbs.
 * The 'stack' is like a stack of papers. When you 'push' onto the stack, you put another piece of paper, say, a report, on. But when you 'pull' from the stack, you take everything off of it and give it to someone.
 
-Still confused? Leave a comment [here](http://github.com/devyn/sasm/tree/master/README.markdown).
+Still confused? Leave a comment [here](http://github.com/devyn/sasm/commit/HEAD).
 
 ~ That's all folks! ~
