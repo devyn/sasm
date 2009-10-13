@@ -3,7 +3,7 @@
         --------  |---|  --------  |  \    /  |
                |  |   |         |  |   \  /   |
         --------  |___|\ --------  |    \/    |
-    S t a c k  a n d  S i m p l e  M e s s e n g i n g
+    S t a c k  a n d  S i m p l e  M e s s a g i n g
 
 What is SaSM?
 -------------
